@@ -1,0 +1,8 @@
+# source ~/.bash_profile
+source  /opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin/virtualenvwrapper.sh
+
+echo "Keep up the good work"
+
+source ~/Work/QSTK/local.sh
+
+
